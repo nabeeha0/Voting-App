@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VotingApp</string>
+    <string name="angry">Angry</string>
+    <string name="upset">Upset</string>
+    <string name="smiley">Smiley</string>
+    <string name="happy">Happy</string>
+    <string name="total_votes">Total Number Of Votes : </string>
+    <string name="the_time">The Time : </string>
+    <string name="date">Date : </string>
+    <string name="angry_selected">You Selected Angry</string>
+    <string name="upset_selected">You Selected Upset</string>
+    <string name="smiley_selected">You Selected Smiley</string>
+    <string name="happy_selected">You Selected Happy</string>
+    <string name="title">Assess the quality of service provided</string>
+    <string name="graph_activity">Graph Activity</string>
+    <string name="go_to_web">My Web</string>
+
+</resources>
